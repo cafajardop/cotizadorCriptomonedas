@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cotizadorCriptomonedas/static/css/main.fdca9178.chunk.css",
+    "main.js": "/cotizadorCriptomonedas/static/js/main.5720a66b.chunk.js",
+    "main.js.map": "/cotizadorCriptomonedas/static/js/main.5720a66b.chunk.js.map",
+    "runtime-main.js": "/cotizadorCriptomonedas/static/js/runtime-main.dab0b8ef.js",
+    "runtime-main.js.map": "/cotizadorCriptomonedas/static/js/runtime-main.dab0b8ef.js.map",
+    "static/js/2.c30ba0c8.chunk.js": "/cotizadorCriptomonedas/static/js/2.c30ba0c8.chunk.js",
+    "static/js/2.c30ba0c8.chunk.js.map": "/cotizadorCriptomonedas/static/js/2.c30ba0c8.chunk.js.map",
+    "index.html": "/cotizadorCriptomonedas/index.html",
+    "precache-manifest.4bddc9c5fe9d58575f2ef1b66a77115f.js": "/cotizadorCriptomonedas/precache-manifest.4bddc9c5fe9d58575f2ef1b66a77115f.js",
+    "service-worker.js": "/cotizadorCriptomonedas/service-worker.js",
+    "static/css/main.fdca9178.chunk.css.map": "/cotizadorCriptomonedas/static/css/main.fdca9178.chunk.css.map",
+    "static/js/2.c30ba0c8.chunk.js.LICENSE.txt": "/cotizadorCriptomonedas/static/js/2.c30ba0c8.chunk.js.LICENSE.txt",
+    "static/media/cryptomonedas.png": "/cotizadorCriptomonedas/static/media/cryptomonedas.96e45d69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dab0b8ef.js",
+    "static/js/2.c30ba0c8.chunk.js",
+    "static/css/main.fdca9178.chunk.css",
+    "static/js/main.5720a66b.chunk.js"
+  ]
+}
