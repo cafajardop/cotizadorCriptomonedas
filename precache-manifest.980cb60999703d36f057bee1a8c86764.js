@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87a2f92ceaebf00f77cc65f266713765",
+    "revision": "4e08b0fc946b950baa2982d562b6987b",
     "url": "/cotizadorCriptomonedas/index.html"
   },
   {
-    "revision": "c511d7ee9e96b0537caa",
+    "revision": "19a1f44881926f363f94",
     "url": "/cotizadorCriptomonedas/static/css/main.fdca9178.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cotizadorCriptomonedas/static/js/2.c30ba0c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c511d7ee9e96b0537caa",
-    "url": "/cotizadorCriptomonedas/static/js/main.5720a66b.chunk.js"
+    "revision": "19a1f44881926f363f94",
+    "url": "/cotizadorCriptomonedas/static/js/main.eff8286d.chunk.js"
   },
   {
     "revision": "d23335f2ba52ec83b5c4",
